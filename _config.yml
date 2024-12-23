@@ -42,8 +42,7 @@ version: 3.0.0
 
 # Navbar page list
 nav:
+  - title: Portfolio
+    url: /portfolio
   - title: Blog
-    url: /dark-poole/archive
-
-  - title: About
-    url: /dark-poole/about
+    url: /blog
