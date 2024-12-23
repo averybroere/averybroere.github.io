@@ -2,7 +2,7 @@
 layout: default
 title: Blog
 ---
-<div align="center">
+
 # Blog
 
 Browse all posts by month and year.
@@ -17,4 +17,3 @@ Browse all posts by month and year.
     {% endfor %}
   </ul>
 {% endfor %}
-</div>
