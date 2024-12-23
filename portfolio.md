@@ -5,8 +5,8 @@ title: Portfolio
 
 ## VirtuaCreature
 -----
-### 2016 - 2024
-### Role: Director / Programmer
+<h3>2016 - 2024</h3>
+<h3>Role: Director / Programmer</h3>
 
 <iframe src="https://store.steampowered.com/widget/1394240/" frameborder="0" width="646" height="190"></iframe>
 
