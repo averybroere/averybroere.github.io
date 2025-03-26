@@ -6,7 +6,7 @@ title: Liberalism seeks to know nothing
 I'm going to avoid being too specific since I'm still a student and reference materials from the school. It is not a personal slight and the individual teachings do not really matter in this case, it is just symptomatic.
 
 ## Liberalism as a lens
-The following statement was made by one of my professors, teaching a broad class about Chinese history, politics, culture etc. It is paraphrased for clarity and to not fully share the material.
+The following statement was taken from a class. It is paraphrased for clarity and to not fully share the material.
 
 > The more freedom, the less equality. The more equality, the less freedom. [...] Western countries favour more freedom. With the founding of the People's Republic of China in 1949, the Chinese chose more equality. [...] Communist theory views equality as 'equality of outcome'.
 
